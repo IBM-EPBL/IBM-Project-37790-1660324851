@@ -1,7 +1,7 @@
 # IBM-Project-37790-1660324851
 Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
-### CONTRIBUTORS
+### PROJECT CONTRIBUTORS
 - NIRANJANA S
 - SANGAVI S
 - SHANMUGA PRIYA M
