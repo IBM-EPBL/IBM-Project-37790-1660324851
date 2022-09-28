@@ -14,7 +14,7 @@ Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 - SHANMUGA PRIYA M [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Member%202-Shanmuga%20Priya%20M)
 - VARSHINI M S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Member%203-Varshini%20M%20S)
 
-### ACTIVITIES
+### PROJECT DESIGN & PLANNING
 - EMPATHY MAP [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Canvas%20Map.pdf)
 - PROBLEM STATEMENT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20statement.pdf)
 - BRAINSTORM AND IDEATION [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorm%20and%20ideation.pdf)
