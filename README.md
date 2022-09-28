@@ -20,5 +20,7 @@ VISUALIZING AND PREDICTING HEART DISEASES WITH AN INTERACTIVE DASHBOARD
 - PROBLEM STATEMENT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20statement.pdf)
 - BRAINSTORM AND IDEATION [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorm%20and%20ideation.pdf)
 - LITERATURE SURVEY [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
+  ### PROJECT DESGIN PHASE 1
+- PROPOSED SOLUTION [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf)
 
 
