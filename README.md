@@ -10,7 +10,7 @@ Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
 ### ASSIGNMENT
 - NIRANJANA S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Lead%20-%20Niranjana%20S)
-- SANGAVI S
+- SANGAVI S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Member%201%20-%20Sangavi%20S)
 - SHANMUGA PRIYA M
 - VARSHINI M S
 
