@@ -1,20 +1,21 @@
 # IBM-Project-37790-1660324851
 Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
-### PROJECT CONTRIBUTORS
+## PROJECT CONTRIBUTORS
 - NIRANJANA S
 - SANGAVI S
 - SHANMUGA PRIYA M
 - VARSHINI M S
 
 
-### ASSIGNMENT
+## ASSIGNMENT
 - NIRANJANA S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Lead%20-%20Niranjana%20S)
 - SANGAVI S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Member%201%20-%20Sangavi%20S)
 - SHANMUGA PRIYA M [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Member%202-Shanmuga%20Priya%20M)
 - VARSHINI M S [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/tree/main/Assignment/Team%20Member%203-Varshini%20M%20S)
 
-### PROJECT DESIGN & PLANNING
+## PROJECT DESIGN & PLANNING
+  ### IDEATION PHASE
 - EMPATHY MAP [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Canvas%20Map.pdf)
 - PROBLEM STATEMENT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20statement.pdf)
 - BRAINSTORM AND IDEATION [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorm%20and%20ideation.pdf)
