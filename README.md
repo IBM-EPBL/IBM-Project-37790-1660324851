@@ -28,6 +28,6 @@ VISUALIZING AND PREDICTING HEART DISEASES WITH AN INTERACTIVE DASHBOARD
 - CUSTOMER JOURNEY [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Customer%20Journey.pdf)
 - FUNCTIONAL REQUIREMENT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Functional%20Requirement.pdf)
 - DATA FLOW DIAGRAMS [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Data%20Flow%20Diagrams.pdf)
-- TECHNOLOGY ARCHITECTURE [CLICK HERE]
+- TECHNOLOGY ARCHITECTURE [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Technology%20Architecture.pdf)
 
 
