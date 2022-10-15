@@ -25,6 +25,9 @@ VISUALIZING AND PREDICTING HEART DISEASES WITH AN INTERACTIVE DASHBOARD
 - PROBLEM SOLUTION FIT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Problem%20Solution%20Fit.pdf)
 - SOLUTION ARCHITECTURE [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture.pdf)
 ### PROJECT DESIGN PHASE 2
+- CUSTOMER JOURNEY [CLICK HERE]
 - FUNCTIONAL REQUIREMENT [CLICK HERE](https://github.com/IBM-EPBL/IBM-Project-37790-1660324851/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/Functional%20Requirement.pdf)
+- DATA FLOW DIAGRAMS [CLICK HERE]
+- TECHNOLOGY ARCHITECTURE [CLICK HERE]
 
 
